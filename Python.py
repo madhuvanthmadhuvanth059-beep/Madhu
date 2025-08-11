@@ -1,7 +1,3 @@
-name = input("What is your name? ")
-age = int(input("12345678"))
-future_age = age + 10
-print(f"Hello, {name}! You will be {future_age}years old in 10 years.")
-
+print("Madhuvanth..!)
 
 
